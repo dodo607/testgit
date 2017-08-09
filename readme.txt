@@ -6,4 +6,4 @@ i push the text to origin repository!
 dfasdfas
 
 this is on dev branch
-this is on dev branch too
+this is on dev branch too and simple
