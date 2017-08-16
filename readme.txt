@@ -8,3 +8,5 @@ dfasdfas
 this is on dev branch
 this is on dev branch too and simple
 
+learn git commits githud on udacity
+
