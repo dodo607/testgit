@@ -7,6 +7,7 @@ dfasdfas
 
 this is on dev branch
 this is on dev branch too and simple
-
+-------------this is a spreator
 learn git commits githud on udacity
 
+i modify this file on github interface!
